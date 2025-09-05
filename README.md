@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrancoisLaumond
 - 👀 I’m interested in Programation
-- 🌱 I’m currently learning in my digital school
+- 🌱 I’m currently learning in 42 School
 
 <!---
 FrancoisLaumond/FrancoisLaumond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
