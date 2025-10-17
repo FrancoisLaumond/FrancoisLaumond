@@ -44,7 +44,7 @@ and I’m aiming to join **42 School** to push my programming skills even furthe
 # 📊 GitHub Stats:
 <div align="center">
   
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FrancoisLaumond&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  
   <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=FrancoisLaumond&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoisLaumond&theme=tokyonight&hide_border=true&layout=compact" />
   
