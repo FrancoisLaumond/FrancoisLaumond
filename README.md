@@ -1,8 +1,8 @@
 # 💫 About Me:
 👋 Hi!<br>
-I finished 2 years of studying web development at **MyDigitalSchool**,<br>
-where I’ve built solid skills in front-end design and digital creation.<br>
-I’m passionate about creating clean, efficient, and user-friendly interfaces,<br>
+I finished 2 years of studying web development at **MyDigitalSchool**,
+where I’ve built solid skills in front-end design and digital creation.
+I’m passionate about creating clean, efficient, and user-friendly interfaces,
 and I’m aiming to join **42 School** to push my programming skills even further.
 
 ---
